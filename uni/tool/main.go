@@ -22,22 +22,22 @@ const (
 
 var (
 	RecordInfo = builder.MorphRecordInfo{
-		ColSize:                 21,
+		ColSize:                 11,
 		SurfaceIndex:            0,
 		LeftIDIndex:             1,
 		RightIDIndex:            2,
 		WeightIndex:             3,
 		POSStartIndex:           4,
-		OtherContentsStartIndex: 8,
+		OtherContentsStartIndex: 6,
 		// extra
 		Meta: map[string]int8{
 			dict.POSStartIndex:      0,
-			dict.POSHierarchy:       4,
-			dict.InflectionalType:   4,
-			dict.InflectionalForm:   5,
-			dict.BaseFormIndex:      10,
+			dict.POSHierarchy:       2,
+			// dict.InflectionalType:   4,
+			// dict.InflectionalForm:   5,
+			// dict.BaseFormIndex:      10,
 //			dict.ReadingIndex:       6, // undefined
-			dict.PronunciationIndex: 9,
+			dict.PronunciationIndex: 6,
 		},
 	}
 	UnkRecordInfo = builder.UnkRecordInfo{
