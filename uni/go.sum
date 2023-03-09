@@ -1,2 +1,4 @@
+github.com/ikawaha/go-bindata v3.0.7+incompatible h1:nZLlglkl7TCZYF6WCDqmNmHSl6K5XRh/JeEJ+MY1q2Q=
+github.com/ikawaha/go-bindata v3.0.7+incompatible/go.mod h1:UfB+UJrcjaRjUCK7ICCxvFABBQ5d0gcRH6xOBrKUQS0=
 github.com/ikawaha/kagome-dict v1.0.8 h1:a02fJSsTdDbUsScZCX0ongVqOGTvdBzi1fq59v6EMu4=
 github.com/ikawaha/kagome-dict v1.0.8/go.mod h1:VmNAk8sKhI/fD035yzM9uVedkK/+C+iNozsljWjqE5A=

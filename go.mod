@@ -1,4 +1,4 @@
-module github.com/ikawaha/kagome-dict
+module github.com/Patchethium/kagome-dict
 
 go 1.19
 
