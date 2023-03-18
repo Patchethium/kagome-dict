@@ -1,4 +1,4 @@
-module github.com/ikawaha/kagome-dict/ipa
+module github.com/Patchethium/kagome-dict/ipa
 
 go 1.19
 
